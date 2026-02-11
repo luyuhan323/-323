@@ -1,0 +1,8 @@
+{
+  "name": "舞蹈课堂采集系统",
+  "description": "一个面向大学生和教师的现代化幼儿舞蹈创编采集与分析系统，结合AI分析与艺术化视觉设计。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
